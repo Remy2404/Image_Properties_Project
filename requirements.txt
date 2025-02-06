@@ -1,0 +1,7 @@
+pillow
+numpy
+opencv-python
+scipy
+scikit-image
+matplotlib
+simpleITK
