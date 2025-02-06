@@ -1,4 +1,3 @@
-```markdown
 # Image Properties Project
 
 This project demonstrates image processing utilities including loading images, displaying them, and creating animated effects (e.g., rotation cycles) using OpenCV and Matplotlib.
@@ -110,4 +109,3 @@ Include licensing information here if applicable.
 ## Contact
 
 For any questions or contributions, please contact [rosexmee1122@gmail.com](mailto:rosexmee1122@gmail.com).
-```
